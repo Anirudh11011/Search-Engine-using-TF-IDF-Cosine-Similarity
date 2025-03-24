@@ -50,3 +50,7 @@ Key Features and Implementations
         Designed a query interface that allows input of free-form text to identify the most relevant speech file.
 
         Returns document name and similarity score.
+
+Conclusion
+
+This project demonstrates the implementation of core information retrieval techniques from scratch. It balances algorithmic efficiency with retrieval accuracy and shows how traditional IR techniques like TF-IDF and cosine similarity power modern search systems.

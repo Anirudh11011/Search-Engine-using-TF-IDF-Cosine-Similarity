@@ -1,4 +1,5 @@
 Project Title: Search Engine using TF-IDF & Cosine Similarity
+
 Project Overview
 
 This project involves building a mini search engine that ranks and retrieves the most relevant U.S. presidential inaugural speech based on user input. It uses TF-IDF for term weighting and Cosine Similarity for document ranking, with optimizations for efficient top-K retrieval.
